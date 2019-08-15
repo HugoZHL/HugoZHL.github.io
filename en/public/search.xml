@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Test and Start]]></title>
+    <url>%2Fen%2F2019%2F08%2F04%2FTest-and-Start%2F</url>
+    <content type="text"><![CDATA[The blog is maintained by H.Z and K.B, to reserve our precious science knowledge and experience. For simplicity we divide our posts into 3 major categories: Maths, Physics and CS. MathematicsThis part contains the outlines of some basic maths lessons for further science study, and also some advanced theorems or intuitive maths support for other science fields. PhysicsThis part contains a few of physics courses notes, and a great many subtle proofs in the exquisite theoretical physics world. Computer ScienceThis part contains both theory and engineering areas in computer science, the contents of which depend on the field our author is currently working on. We’ll irregularly update our posts. Thanks for the follow!]]></content>
+      <categories>
+        <category>Mathematics</category>
+        <category>Physics</category>
+        <category>Computer Science</category>
+      </categories>
+  </entry>
+</search>
