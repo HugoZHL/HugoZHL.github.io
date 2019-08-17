@@ -154,7 +154,7 @@ menu:
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
-  archives: /archives/ || archive
+  #archives: /archives/ || archive
   Maths: /categories/Mathematics/ || sort-numeric-asc
   Physics: /categories/Physics/ || gear
   CS: /categories/Computer-Science/ || desktop

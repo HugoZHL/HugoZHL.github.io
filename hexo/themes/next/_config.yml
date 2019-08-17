@@ -154,7 +154,7 @@ menu:
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
-  archives: /archives/ || archive
+  #archives: /archives/ || archive
   Maths: /categories/数学/ || sort-numeric-asc
   Physics: /categories/物理/ || gear
   CS: /categories/计算机/ || desktop
