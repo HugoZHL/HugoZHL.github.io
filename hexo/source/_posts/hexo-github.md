@@ -5,14 +5,17 @@ categories:
     - [计算机]
 ---
 
+
 # 简介
 * [Hexo](https://hexo.io/zh-cn/docs/)：一个十分方便的博客框架。
 * Github.io：Github提供的域名解决方案。
 
+
 # 配置
 ## Github
 1. 在github上建立一个repository命名为 账户名.github.io 。
-2. hexo部署时是通过ssh而非http进行的，因此需要在github上添加本设备的ssh公钥。如果本地没有~/.ssh/id_rsa.pub文件，则使用命令 `ssh-keygen -t rsa -C "Github邮件地址"`，再将~/.ssh/id_rsa.pub中的内容全部复制到github上添加新的ssh key即可。
+2. hexo部署时是通过ssh而非http进行的，因此需要在github上添加本设备的ssh公钥。如果本地没有\~/.ssh/id_rsa.pub文件，则使用命令 `ssh-keygen -t rsa -C "Github邮件地址"`，再将\~/.ssh/id_rsa.pub中的内容全部复制到github上添加新的ssh key即可。  
+
 ## Hexo
 1. 按照hexo文档的指示安装nodejs、git，使用npm安装hexo，按照文档指示在_config.yml文件中进行配置。
 2. 在hexo所在文件夹中配置git。配置时可参考以下命令，使用config配置的作用是让github识别你的本地仓库是谁在维护。
@@ -29,6 +32,7 @@ deploy:
     repository: git@github.com:账户名/账户名.github.io.git
     branch: master
 ```
+
 
 # 进阶
 普通的配置过程在hexo或者相应主题的文档中都能找到，此处提供一些有趣的进阶技巧。  
