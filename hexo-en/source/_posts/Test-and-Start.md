@@ -5,6 +5,7 @@ categories:
     - [Mathematics]
     - [Physics]
     - [Computer Science]
+    - [Others]
 ---
 
 The blog is maintained by H.Z and K.B, to reserve our precious science knowledge and experience. For simplicity we divide our posts into 3 major categories: Maths, Physics and CS.

@@ -158,6 +158,7 @@ menu:
   Maths: /categories/数学/ || sort-numeric-asc
   Physics: /categories/物理/ || gear
   CS: /categories/计算机/ || desktop
+  杂谈: /categories/杂谈/ || paw
   English: /en/ || language
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap

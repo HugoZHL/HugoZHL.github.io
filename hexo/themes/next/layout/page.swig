@@ -61,7 +61,7 @@
               {{ _p('counter.categories', visibleCategories) }}
             </div>
             <div class="category-all">
-              {{ list_categories({orderby: ["数学", "物理", "计算机"]}) }}
+              {{ list_categories({orderby: ["数学", "物理", "计算机", "杂谈"]}) }}
             </div>
           </div>
         {% elif page.type === 'schedule' %}

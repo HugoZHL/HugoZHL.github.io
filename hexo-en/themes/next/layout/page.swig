@@ -61,7 +61,7 @@
               {{ _p('counter.categories', visibleCategories) }}
             </div>
             <div class="category-all">
-              {{ list_categories({orderby: ["Mathematics", "Physics", "Computer Science"]}) }}
+              {{ list_categories({orderby: ["Mathematics", "Physics", "Computer Science", "Others"]}) }}
             </div>
           </div>
         {% elif page.type === 'schedule' %}
