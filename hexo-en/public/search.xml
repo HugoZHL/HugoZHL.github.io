@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Comments on Noether current]]></title>
+    <url>%2Fen%2F2020%2F01%2F06%2Fnoether%2F</url>
+    <content type="text"><![CDATA[AbstractThis article concludes the knowledge point “Noether Theorem” I collect during revision for the exam “Quantum Field Theory”. It includes four parts: gereneral form of the Noether current, Noether current under three types of specific transformations, Noether current under specific Lagrangian, and some useful knowledge points around Noether current. General Form of Noether CurrentThere are two types of transformation that we normally consider:(i) the more fundamental one: tranformation on the coordinate;(ii) the more general one: transformation on the field. It’s obvious that: all tranformation on the coordinate leads to the corresponding tranformation on the field. Thus, the level of tranformation on the field is higher.In this section, we consider to derive a general form of Noether current.$ \phi(x) \rightarrow \phi(x)’ = \phi(x)+\alpha \Delta \phi(x) $]]></content>
+      <categories>
+        <category>Physics</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Test and Start]]></title>
     <url>%2Fen%2F2019%2F08%2F04%2FTest-and-Start%2F</url>
     <content type="text"><![CDATA[The blog is maintained by H.Z and K.B, to reserve our precious science knowledge and experience. For simplicity we divide our posts into 4 major categories: Maths, Physics, CS and Others. MathematicsThis part contains the outlines of some basic maths lessons for further science study, and also some advanced theorems or intuitive maths support for other science fields. PhysicsThis part contains a few of physics courses notes, and a great many subtle proofs in the exquisite theoretical physics world. Computer ScienceThis part contains both theory and engineering areas in computer science, the contents of which depend on the field our author is currently working on. OthersThis part contains other posts. We’ll irregularly update our posts. Thanks for the follow!]]></content>
