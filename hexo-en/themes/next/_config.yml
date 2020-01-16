@@ -617,8 +617,8 @@ reading_progress:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: riversea
   count: true
   lazyload: false
 
