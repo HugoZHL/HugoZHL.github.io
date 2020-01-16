@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+
+
+
+
+
+<html class="theme-next muse use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="generator" content="Hexo 3.9.0">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=7.3.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=7.3.0">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=7.3.0">
+  <link rel="mask-icon" href="/images/logo.svg?v=7.3.0" color="#222">
+
+<link rel="stylesheet" href="/css/main.css?v=7.3.0">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.7.0">
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '7.3.0',
+    sidebar: {"position":"left","display":"post","offset":12,"onmobile":false},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    save_scroll: false,
+    copycode: {"enable":false,"show_result":false,"style":null},
+    fancybox: false,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    translation: {
+      copy_button: '复制',
+      copy_success: '复制成功',
+      copy_failure: '复制失败'
+    }
+  };
+</script>
+
+  <meta property="og:type" content="website">
+<meta property="og:title" content="RiverSea">
+<meta property="og:url" content="https://hugozhl.github.io/index.html">
+<meta property="og:site_name" content="RiverSea">
+<meta property="og:locale" content="zh-CN">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="RiverSea">
+  <link rel="canonical" href="https://hugozhl.github.io/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: true,
+    isPost: false,
+    isPage: false,
+    isArchive: false
+  };
+</script>
+
+  <title>RiverSea</title>
+  
+
+
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
+
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  <div class="container sidebar-position-left">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">RiverSea</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <p class="site-subtitle">理科笔记小博客</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="切换导航栏">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+      
+      
+      
+        
+        <li class="menu-item menu-item-home">
+      
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>首页</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-maths">
+      
+    
+
+    <a href="/categories/数学/" rel="section"><i class="menu-item-icon fa fa-fw fa-sort-numeric-asc"></i> <br>数学</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-physics">
+      
+    
+
+    <a href="/categories/物理/" rel="section"><i class="menu-item-icon fa fa-fw fa-gear"></i> <br>物理</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-cs">
+      
+    
+
+    <a href="/categories/计算机/" rel="section"><i class="menu-item-icon fa fa-fw fa-desktop"></i> <br>计算机</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-杂谈">
+      
+    
+
+    <a href="/categories/杂谈/" rel="section"><i class="menu-item-icon fa fa-fw fa-paw"></i> <br>杂谈</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-english">
+      
+    
+
+    <a href="/en/" rel="section"><i class="menu-item-icon fa fa-fw fa-language"></i> <br>English</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a href="javascript:;" class="popup-trigger">
+        
+          <i class="menu-item-icon fa fa-search fa-fw"></i> <br>搜索</a>
+      </li>
+    
+  </ul>
+
+    
+
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+    </div>
+</nav>
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content page-home">
+            
+  <section id="posts" class="posts-expand">
+      
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://hugozhl.github.io/2019/08/18/hexo-github/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="H.Z & K.B">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RiverSea">
+    </span>
+      <header class="post-header">
+
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/2019/08/18/hexo-github/" class="post-title-link" itemprop="url">Hexo | Github博客部署</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2019-08-18 15:04:25" itemprop="dateCreated datePublished" datetime="2019-08-18T15:04:25+08:00">2019-08-18</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/计算机/" itemprop="url" rel="index"><span itemprop="name">计算机</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          <br>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          
+            <h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><ul>
+<li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo</a>：一个十分方便的博客框架。</li>
+<li>Github.io：Github提供的域名解决方案。</li>
+</ul>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><h2 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h2><ol>
+<li>在github上建立一个repository命名为 账户名.github.io 。</li>
+<li>hexo部署时是通过ssh而非http进行的，因此需要在github上添加本设备的ssh公钥。如果本地没有~/.ssh/id_rsa.pub文件，则使用命令 <code>ssh-keygen -t rsa -C &quot;Github邮件地址&quot;</code>，再将~/.ssh/id_rsa.pub中的内容全部复制到github上添加新的ssh key即可。  </li>
+</ol>
+<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><ol>
+<li><p>按照hexo文档的指示安装nodejs、git，使用npm安装hexo，按照文档指示在_config.yml文件中进行配置。</p>
+</li>
+<li><p>在hexo所在文件夹中配置git。配置时可参考以下命令，使用config配置的作用是让github识别你的本地仓库是谁在维护。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">"Github账户名"</span></span><br><span class="line">git config --global user.email <span class="string">"Github邮件地址"</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>按照hexo文档熟悉一下hexo的相关命令，一般要用的只有 <code>hexo init</code> 初始化hexo，<code>hexo new 文章名</code>新建文章，<code>hexo generate</code>根据你的配置生成最终的静态网页，<code>hexo server</code>在本地查看网页效果，<code>hexo deploy</code>将静态网站部署到github上。</p>
+</li>
+<li><p>可以在hexo的主题页面中选择一个自己想要的主题，并在hexo的_config.yml文件中进行配置，配置好以后可在themes文件夹中只保留一个最终留下的主题。</p>
+</li>
+<li><p>上传到github前要在hexo的_config.yml中配置相应的deploy如下。这里的branch很有讲究，说明每次部署的时候只部署到该分支，其他分支并不会受到影响，这一点带来的好处将在接下来的进阶中看到。</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="attr">    type:</span> <span class="string">git</span></span><br><span class="line"><span class="attr">    repository:</span> <span class="string">git@github.com:账户名/账户名.github.io.git</span></span><br><span class="line"><span class="attr">    branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><p>普通的配置过程在hexo或者相应主题的文档中都能找到，此处提供一些有趣的进阶技巧。  </p>
+<h2 id="分类-Categories"><a href="#分类-Categories" class="headerlink" title="分类 Categories"></a>分类 Categories</h2><p>使用分类十分简单，只需要在每篇文章的元数据中加上<code>categories: xxx</code>即可，一般有以下几种方式（注意-和[]之间有空格）</p>
+<ul>
+<li><p>一种类别</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">categories:</span></span><br><span class="line"><span class="bullet">    -</span> <span class="string">[类别1]</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>多种类别，一篇文章属于多种并列的类别</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">categories:</span></span><br><span class="line"><span class="bullet">    -</span> <span class="string">[类别1]</span></span><br><span class="line"><span class="bullet">    -</span> <span class="string">[类别2]</span></span><br><span class="line"><span class="bullet">    -</span> <span class="string">[类别3]</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>多级类别，一篇文章属于某一大类中的某一小类，可与多种类别混用</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">categories:</span></span><br><span class="line"><span class="bullet">    -</span> <span class="string">[大类,中类,小类]</span></span><br></pre></td></tr></table></figure>
+
+</li>
+</ul>
+<p>可以在主题文件夹的_config.yml中将分类页面列在菜单中，甚至将某一类列在菜单中</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">menu:</span></span><br><span class="line"><span class="attr">    categories:</span> <span class="string">/categories/</span></span><br><span class="line"><span class="attr">    maths:</span> <span class="string">/categories/maths/</span></span><br></pre></td></tr></table></figure>
+
+<p>在分类页面中可能想自定义类别的顺序，那么需要在主题文件夹中查找有<code>list_categories</code>函数的文件，不同主题可能文件不太一样。具体该函数的其他参数可以参考hexo文档；仅定义顺序可以使用如下写法，该写法会要求分类中按照数学、物理、计算机的顺序排序。</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">list_categories(&#123;<span class="attr">orderby</span>: [<span class="string">"Mathematics"</span>, <span class="string">"Physics"</span>, <span class="string">"Computer Science"</span>]&#125;)</span><br></pre></td></tr></table></figure>
+
+<p>标签Tags的用法与categories基本类似，此处不再赘述。</p>
+<h2 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h2><p>本文使用的方式是hexo自带的搜索功能。一般来说每种主题的_config.yml文件都已经有搜索功能的实现了，我们只需要将相应的搜索功能的enable从false改为true即可。如果使用hexo的搜索，那么应该选择local_search这一项。<br>除了主题内的_config.yml，一般还需要两项操作，一是安装一个新的插件：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-searchdb --save</span><br></pre></td></tr></table></figure>
+
+<p>二是修改hexo的_config.yml，添加如下内容：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">search:</span></span><br><span class="line"><span class="attr">    path:</span> <span class="string">search.xml</span></span><br><span class="line"><span class="attr">    field:</span> <span class="string">post</span></span><br><span class="line"><span class="attr">    format:</span> <span class="string">html</span></span><br><span class="line"><span class="attr">    limit:</span> <span class="number">10000</span></span><br><span class="line"><span class="attr">    content:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p>对这个limit项可能有人会有疑惑，意思是每次查找最多会给多少个帖子作为结果。</p>
+<h2 id="多语言"><a href="#多语言" class="headerlink" title="多语言"></a>多语言</h2><p>官方的多语言实现仅针对各类元数据，如果要实现自己的元数据多语言可以在主题文件夹下的languages中的相应文件中添加映射；如果要实现文章的多语言，就没那么简单了。<br>此处我们采取一个有趣的方法：对多种语言建立两个不同的hexo文件夹。除了现有的文件夹，我们复制一个一模一样的文件夹，修改相应的各项配置，使其中一个是中文，一个是英文，下载一模一样的插件，再设置二者网站的根目录不同即可。比如，中文的root和英文的root分别为：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 中文</span></span><br><span class="line"><span class="attr">url:</span> <span class="attr">https://账户名.github.io</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#英文</span></span><br><span class="line"><span class="attr">url:</span> <span class="attr">https://账户名.github.io/en</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/en/</span></span><br></pre></td></tr></table></figure>
+
+<p>如果想要实现二者之间的跳转，此处给出一种解决方案：将跳转按钮放入目录，比如中文跳到英文和英文跳中文分别为：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 中文-&gt;English</span></span><br><span class="line"><span class="attr">menu:</span></span><br><span class="line"><span class="attr">    English:</span> <span class="string">/en/</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># English-&gt;中文</span></span><br><span class="line"><span class="attr">menu:</span></span><br><span class="line">    <span class="string">中文:</span> <span class="string">../</span></span><br></pre></td></tr></table></figure>
+
+<p>此时如果运行hexo的相关命令，只会在相应文件夹下起作用，并不能用一个命令解决所有问题。我们可以编辑一个sh文件，例如：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> hexo</span><br><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line"><span class="built_in">cd</span> ../hexo-en</span><br><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">cp -r public/. ../hexo/public/en/</span><br><span class="line"><span class="built_in">cd</span> ../hexo</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+
+<p>每次改动之后想要部署时，运行该sh文件即可。该文件作用是：生成中文的静态网站，生成英文的静态网站，将英文的静态网站放到中文的静态网站文件夹下的en/文件夹下，再在中文的hexo文件夹下使用<code>hexo deploy</code>进行提交。</p>
+<h2 id="多人协作"><a href="#多人协作" class="headerlink" title="多人协作"></a>多人协作</h2><p>如果想要多人协作或者使用多台电脑对博客进行管理，显然不能使用常规方法，因为github上存放的只有静态网站，而非整个hexo代码。<br>如何解决呢？此时我们可以回想最开始设计_config.yml的部署部分时，设置了github的分支为master，也就是说其他分支是不会受到影响的。因此我们完全可以生成另外一个分支只存放hexo代码而非静态网站！<br>在原项目中生成一个新的分支，比如可命名为hexo，将默认分支修改为hexo，并将该分支里面的内容删掉，换成整个hexo代码即可。需要注意：主题文件夹下有一个对该主题进行git的配置，需将其中的.git及相关文件删除。<br>此时整个hexo文件夹就是一个git项目，按照git项目的方式进行同步即可；部署还是使用<code>hexo deploy</code>命令，只会修改静态网站同步到master分支，二者互不干扰。<br>P.S. hexo通过ssh进行部署，github上同样需要存储另一台电脑的ssh公钥。</p>
+<p><strong>终</strong> </p>
+
+          
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+    
+      
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://hugozhl.github.io/2019/08/17/harrypotter/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="H.Z & K.B">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RiverSea">
+    </span>
+      <header class="post-header">
+
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/2019/08/17/harrypotter/" class="post-title-link" itemprop="url">Diary</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2019-08-17 18:36:26" itemprop="dateCreated datePublished" datetime="2019-08-17T18:36:26+08:00">2019-08-17</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/杂谈/" itemprop="url" rel="index"><span itemprop="name">杂谈</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          <br>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          
+            <p>今天天气很好。我和爸爸去公园玩。鸟很多。</p>
+
+          
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+    
+      
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://hugozhl.github.io/2019/08/04/Test-and-Start/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="H.Z & K.B">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="RiverSea">
+    </span>
+      <header class="post-header">
+
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/2019/08/04/Test-and-Start/" class="post-title-link" itemprop="url">测试与启程</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2019-08-04 18:54:36" itemprop="dateCreated datePublished" datetime="2019-08-04T18:54:36+08:00">2019-08-04</time>
+            </span>
+          
+            
+
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
+              </span>
+            
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/杂谈/" itemprop="url" rel="index"><span itemprop="name">杂谈</span></a></span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/计算机/" itemprop="url" rel="index"><span itemprop="name">计算机</span></a></span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/数学/" itemprop="url" rel="index"><span itemprop="name">数学</span></a></span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/物理/" itemprop="url" rel="index"><span itemprop="name">物理</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          <br>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          
+            <p>本博客由 H.Z 和 K.B 共同运营。我们希望能在这里记录我们学习过程中总结的知识体系和相关经验。简单起见，我们将所有的帖子分为数学、物理、计算机、杂谈四大类，具体介绍如下：</p>
+<h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>在这一部分我们会总结一些数学课程笔记，并且为后续的其他理工学科提供重要的数学直觉。</p>
+<h3 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h3><p>在这一部分我们会总结部分物理课程笔记，以及分享一些理论物理中优雅且有趣的证明。</p>
+<h3 id="计算机"><a href="#计算机" class="headerlink" title="计算机"></a>计算机</h3><p>在这一部分我们会涉及计算机科学与计算机工程技术，具体内容取决于笔者目前的研究、工作领域。</p>
+<h3 id="杂谈"><a href="#杂谈" class="headerlink" title="杂谈"></a>杂谈</h3><p>在这一部分我们会收集其他笔记和杂谈。</p>
+<hr>
+<p>我们会不定期进行更新。感谢您的关注！</p>
+
+          
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+    
+  </section>
+
+  
+
+
+          </div>
+          
+
+        </div>
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">H.Z & K.B</p>
+  <div class="site-description motion-element" itemprop="description"></div>
+</div>
+  <nav class="site-state motion-element">
+      <div class="site-state-item site-state-posts">
+        
+          <a href="/archives">
+        
+          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+    
+      
+      
+      <div class="site-state-item site-state-categories">
+        
+          
+            <a href="/categories/">
+          
+        
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">分类</span>
+        </a>
+      </div>
+    
+  </nav>
+
+
+
+        </div>
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">H.Z & K.B</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v3.9.0</div>
+  <span class="post-meta-divider">|</span>
+  <div class="theme-info">主题 – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.3.0</div>
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+      </div>
+
+    
+
+  </div>
+
+  
+  <script src="/lib/jquery/index.js?v=3.4.1"></script>
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+<script src="/js/utils.js?v=7.3.0"></script>
+  <script src="/js/motion.js?v=7.3.0"></script>
+
+
+  <script src="/js/schemes/muse.js?v=7.3.0"></script>
+
+
+<script src="/js/next-boot.js?v=7.3.0"></script>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script src="/js/local-search.js?v=7.3.0"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+
+  
+
+
+  
+</body>
+</html>
