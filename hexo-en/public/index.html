@@ -312,7 +312,7 @@
                 
                   <span class="post-meta-item-text">Edited on</span>
                 
-                <time title="Modified: 2020-01-11 01:30:53" itemprop="dateModified" datetime="2020-01-11T01:30:53+08:00">2020-01-11</time>
+                <time title="Modified: 2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
               </span>
             
           
@@ -344,8 +344,13 @@
 
       
           
-            <h3 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h3><p>This article concludes the knowledge point “Noether Theorem” I collect during revision for the exam “Quantum Field Theory”. It includes four parts: gereneral form of the Noether current, Noether current under three types of specific transformations, Noether current under specific Lagrangian, and some useful knowledge points around Noether current. </p>
-<h3 id="General-Form-of-Noether-Current"><a href="#General-Form-of-Noether-Current" class="headerlink" title="General Form of Noether Current"></a>General Form of Noether Current</h3><p>There are two types of transformation that we normally consider:<br>(i) the more fundamental one: tranformation on the coordinate;<br>(ii) the other one: transformation on the field. It’s obvious that: every tranformation on the coordinate leads to the corresponding tranformation on the field. Thus, the level of tranformation on the field is higher.<br>In this section, we derive a general form of Noether current. Consider a general tranformation of the field $\phi(x)$:<br>$ \phi(x) \rightarrow \phi(x)’ = \phi(x)+\alpha \Delta \phi(x) $</p>
+            <h3 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h3><p>This article concludes the knowledge point “Noether Theorem” collected during revision for the exam “Quantum Field Theory”. It includes four parts: general form of the Noether current, Noether current under three types of coordinate transformations, and Noether current under specific Lagrangian. </p>
+<h3 id="General-Form-of-Noether-Current"><a href="#General-Form-of-Noether-Current" class="headerlink" title="General Form of Noether Current"></a>General Form of Noether Current</h3><p>Generally, we consider two types of transformation:\<br>(i) the more fundamental one: coordinate transformation;\<br>(ii) the other one: field transformation. It’s obvious that: for every transformation on the coordinate, we can derive a corresponding transformation on the field. Thus, the level of field transformation is higher. We begin with this.\<br>Consider a general transformation of the field $\phi(x)$:<br>$$ \phi(x) \rightarrow \phi(x)’ = \phi(x)+\alpha \Delta \phi(x) \qquad \text{(1)} $$<br>where $\alpha$ is a constant, $\alpha \Delta \phi(x)$ is the deformation of the field. \<br>Then consider the transformation of the Lagrangian. On one hand, the deformation of the Lagrangian must be a 4-derivative boundary term:<br>$$\Delta \mathcal{L} = \partial_\mu \mathcal{J}^\mu \qquad \text{(2)}$$<br>On the other hand, the deformation of the Lagrangian can be derived according to field transformation:\<br>$$\Delta \mathcal{L} = \frac{\partial \mathcal{L}}{\partial \phi} \cdot \Delta \phi + \frac{\partial \mathcal{L}}{\partial (\partial_\mu \phi)} \cdot \Delta (\partial_\mu \phi)<br>= \partial_\mu(\frac{\partial \mathcal{L}}{\partial (\partial_\mu \phi)} \cdot \Delta \phi) + \Delta \phi \cdot [\frac{\partial \mathcal{L}}{\partial \phi} - \partial_\mu (\frac{\partial \mathcal{L}}{\partial (\partial_\mu \phi)})]$$<br>$$= \partial_\mu(\frac{\partial \mathcal{L}}{\partial (\partial_\mu \phi)} \cdot \Delta \phi) \qquad \text{(3)}$$<br>Compare equation (2) and (3), we obtain:<br>$$ j^\mu = \frac{\partial \mathcal{L}}{\partial (\partial_\mu \phi)} \cdot \Delta \phi - \mathcal{J}^\mu \qquad \text{(4)} $$<br>where $\partial_\mu j^\mu = 0$. $j^\mu$ is the general form of Noether current.\<br>Three things to note:\</p>
+<ol>
+<li>Noether theorem: For every \textbf{continuous} symmetry of $\mathcal{L}$ (which means $\alpha$ is infinitesimal and the action $S’ = \int d^4 x \mathcal{L’} = S$ under this transformation), there is always a conserved Noether current $j^\mu$. \textbf{Note that the integrated coordinate will not change with coordinate transformation.} This is because …\</li>
+<li>Where the notation $\mu$ appear is important. They must appear in pair, and should not be mixed with other pairs.\</li>
+<li>The conserved Noether current leads to the conserved charge: $Q = \int d^3 \vec{x} j^0$.</li>
+</ol>
 
           
         
@@ -422,7 +427,7 @@
                 
                   <span class="post-meta-item-text">Edited on</span>
                 
-                <time title="Modified: 2019-08-25 22:38:13" itemprop="dateModified" datetime="2019-08-25T22:38:13+08:00">2019-08-25</time>
+                <time title="Modified: 2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
               </span>
             
           
@@ -661,6 +666,53 @@
 
 
 
+  
+
+  
+    
+      <script type="text/x-mathjax-config">
+
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$', '$'], ['\\(', '\\)'] ],
+      processEscapes: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    },
+    TeX: {
+      equationNumbers: {
+        autoNumber: 'AMS'
+      }
+    }
+  });
+
+  MathJax.Hub.Register.StartupHook('TeX Jax Ready', function() {
+    MathJax.InputJax.TeX.prefilterHooks.Add(function(data) {
+      if (data.display) {
+        var next = data.script.nextSibling;
+        while (next && next.nodeName.toLowerCase() === '#text') {
+          next = next.nextSibling;
+        }
+        if (next && next.nodeName.toLowerCase() === 'br') {
+          next.parentNode.removeChild(next);
+        }
+      }
+    });
+  });
+
+  MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for (i = 0; i < all.length; i += 1) {
+      element = document.getElementById(all[i].inputID + '-Frame').parentNode;
+      if (element.nodeName.toLowerCase() == 'li') {
+        element = element.parentNode;
+      }
+      element.classList.add('has-jax');
+    }
+  });
+</script>
+<script src="//cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    
   
 
   

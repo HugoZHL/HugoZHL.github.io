@@ -62,7 +62,7 @@
 <meta property="og:site_name" content="RiverSea">
 <meta property="og:description" content="The blog is maintained by H.Z and K.B, to reserve our precious science knowledge and experience. For simplicity we divide our posts into 4 major categories: Maths, Physics, CS and Others. MathematicsT">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2019-08-25T14:38:13.823Z">
+<meta property="og:updated_time" content="2020-01-16T13:20:50.293Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Test and Start">
 <meta name="twitter:description" content="The blog is maintained by H.Z and K.B, to reserve our precious science knowledge and experience. For simplicity we divide our posts into 4 major categories: Maths, Physics, CS and Others. MathematicsT">
@@ -315,7 +315,7 @@
                 
                   <span class="post-meta-item-text">Edited on</span>
                 
-                <time title="Modified: 2019-08-25 22:38:13" itemprop="dateModified" datetime="2019-08-25T22:38:13+08:00">2019-08-25</time>
+                <time title="Modified: 2020-01-16 21:20:50" itemprop="dateModified" datetime="2020-01-16T21:20:50+08:00">2020-01-16</time>
               </span>
             
           
@@ -586,6 +586,53 @@
 
 
 
+  
+
+  
+    
+      <script type="text/x-mathjax-config">
+
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$', '$'], ['\\(', '\\)'] ],
+      processEscapes: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    },
+    TeX: {
+      equationNumbers: {
+        autoNumber: 'AMS'
+      }
+    }
+  });
+
+  MathJax.Hub.Register.StartupHook('TeX Jax Ready', function() {
+    MathJax.InputJax.TeX.prefilterHooks.Add(function(data) {
+      if (data.display) {
+        var next = data.script.nextSibling;
+        while (next && next.nodeName.toLowerCase() === '#text') {
+          next = next.nextSibling;
+        }
+        if (next && next.nodeName.toLowerCase() === 'br') {
+          next.parentNode.removeChild(next);
+        }
+      }
+    });
+  });
+
+  MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for (i = 0; i < all.length; i += 1) {
+      element = document.getElementById(all[i].inputID + '-Frame').parentNode;
+      if (element.nodeName.toLowerCase() == 'li') {
+        element = element.parentNode;
+      }
+      element.classList.add('has-jax');
+    }
+  });
+</script>
+<script src="//cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    
   
 
   
