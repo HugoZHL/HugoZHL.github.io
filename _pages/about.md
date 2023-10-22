@@ -21,7 +21,7 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 ## Publications
 
 ### 2023
-1. **Model-enhanced Vector Index.** [PDF](https://arxiv.org/pdf/2309.13335)  
+1. **Model-enhanced Vector Index.** [PDF](https://arxiv.org/abs/2309.13335)  
 **Hailin Zhang**, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2023, CCF-A.***
@@ -40,7 +40,7 @@ Science China Information Sciences.
 2. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [PDF](https://dl.acm.org/doi/10.14778/3489496.3489511)  
 Xupeng Miao\*, **Hailin Zhang**\*, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
 International Conference on Very Large Data Bases.  
-***VLDB 2022, CCF-A,*** <font color=orange>**Best Scalable Data Science Paper!**</font>
+***VLDB 2022, CCF-A,*** <font color=orange><strong>Best Scalable Data Science Paper!</strong></font>
 
 3. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [PDF](https://dl.acm.org/doi/10.1145/3514221.3517902)  
 Xupeng Miao, Yining Shi, **Hailin Zhang**, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui.  
