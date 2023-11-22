@@ -20,6 +20,17 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 ## Publications
 
+### 2024
+1. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.**  
+**Hailin Zhang**, Zirui Liu, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
+ACM SIGMOD International Conference on Management of Data.  
+***SIGMOD 2024, CCF-A.***
+
+2. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.**  
+**Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
+International Conference on Very Large Data Bases.  
+***VLDB 2024, CCF-A.***
+
 ### 2023
 1. **Model-enhanced Vector Index.** [PDF](https://arxiv.org/abs/2309.13335)  
 **Hailin Zhang**, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui.  
@@ -28,7 +39,7 @@ Conference on Neural Information Processing Systems.
 
 2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [PDF](https://arxiv.org/abs/2211.13878)  
 Xupeng Miao, Yujie Wang, Youhe Jiang, Chunan Shi, Xiaonan Nie, **Hailin Zhang**, Bin Cui.  
-ACM SIGMOD International Conference on Management of Data.  
+International Conference on Very Large Data Bases.  
 ***VLDB 2023, CCF-A.***
 
 ### 2022
