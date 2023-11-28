@@ -26,7 +26,7 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A.***
 
-2. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.**  
+2. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://arxiv.org/abs/2311.15578)  
 **Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2024, CCF-A.***
