@@ -20,9 +20,11 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 ## Publications
 
+`*` represents co-first author.
+
 ### 2024
-1. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.**  
-**Hailin Zhang**, Zirui Liu, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
+1. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://arxiv.org/abs/2312.03256)  
+**Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A.***
 
