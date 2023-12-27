@@ -12,11 +12,12 @@ Email: z.hl [AT] pku.edu.cn
 
 I am a 4th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of deep learning systems, with a focus on large-scale deep learning recommendation models, information retrieval, and distributed computing.
 
-## Systems
-* [**Hetu**](https://github.com/PKU-DAIR/Hetu)
-  - [2021 Synced Machine Intelligence TOP-10 Open Source Awards.](https://www.jiqizhixin.com/awards/2021/events)
-  - [Pop SOTA！List for AI Developers 2021.](https://mp.weixin.qq.com/s/jHkF9UpgEn1MLZpRH2FOaA)
-  - Outstanding Award & Champion of [2021 CCF BDCI Contest](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg).
+
+## Education
+* PhD, major in Computer Science (Peking University 2020-Now)
+
+* BS, major in Computer Science; BEc, double major in Economics (Peking University 2016-2020)
+
 
 ## Publications
 
@@ -59,4 +60,11 @@ International Conference on Very Large Data Bases.
 Xupeng Miao, Yining Shi, **Hailin Zhang**, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2022, CCF-A.***
+
+
+## Systems
+* [**Hetu**](https://github.com/PKU-DAIR/Hetu)
+  - [2021 Synced Machine Intelligence TOP-10 Open Source Awards.](https://www.jiqizhixin.com/awards/2021/events)
+  - [Pop SOTA！List for AI Developers 2021.](https://mp.weixin.qq.com/s/jHkF9UpgEn1MLZpRH2FOaA)
+  - Outstanding Award & Champion of [2021 CCF BDCI Contest](https://mp.weixin.qq.com/s/hSoDMVMZApQxaiNqh2jUSg).
 
