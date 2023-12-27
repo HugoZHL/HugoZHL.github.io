@@ -14,9 +14,11 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 
 ## Education
-* PhD, major in Computer Science (Peking University 2020-Now)
+* PhD, major in Computer Science  
+*Peking University 2020-Now*
 
-* BS, major in Computer Science; BEc, double major in Economics (Peking University 2016-2020)
+* BS, major in Computer Science; BEc, double major in Economics  
+*Peking University 2016-2020*
 
 
 ## Publications
