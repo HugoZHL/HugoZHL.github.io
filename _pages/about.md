@@ -12,6 +12,7 @@ Email: z.hl [AT] pku.edu.cn
 
 I am a 4th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of deep learning systems, with a focus on large-scale deep learning recommendation models, information retrieval, and distributed computing.
 
+<font color=orange>I am currently on the job market. Please feel free to reach out if you have openings.</font>
 
 ## Education
 * PhD, major in Computer Science  
@@ -30,12 +31,12 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui.  
 ***Arxiv.***
 
-2. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://arxiv.org/abs/2312.03256)  
+2. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A.***
 
-3. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://www.vldb.org/pvldb/vol17/p808-zhang.pdf)  
+3. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
 **Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2024, CCF-A.***
