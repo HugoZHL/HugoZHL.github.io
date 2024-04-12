@@ -28,8 +28,8 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 ### 2024
 1. **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
-Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui.  
-***Arxiv.***
+Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
+***Submitted to TPAMI.***
 
 2. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
