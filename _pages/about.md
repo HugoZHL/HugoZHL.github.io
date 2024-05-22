@@ -29,7 +29,7 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 ### 2024
 1. **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
-***Submitted to TPAMI.***
+***Arxiv preprint.***
 
 2. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
@@ -40,6 +40,11 @@ ACM SIGMOD International Conference on Management of Data.
 **Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2024, CCF-A.***
+
+4. **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
+Zirui Liu, Xiangyuan Wang, Yuhan Wu, Tong Yang, Kaicheng Yang, **Hailin Zhang**, Yaofeng Tu, Bin Cui.  
+IEEE Transactions on Knowledge and Data Engineering.  
+***TKDE 2024, CCF-A.***
 
 ### 2023
 1. **Model-enhanced Vector Index.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)  
