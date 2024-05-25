@@ -31,17 +31,21 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
 ***Arxiv preprint.***
 
-2. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
+2. **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling** [PDF](https://arxiv.org/abs/2405.14578)  
+Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
+***Arxiv preprint.***
+
+3. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A.***
 
-3. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
+4. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
 **Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2024, CCF-A.***
 
-4. **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
+5. **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
 Zirui Liu, Xiangyuan Wang, Yuhan Wu, Tong Yang, Kaicheng Yang, **Hailin Zhang**, Yaofeng Tu, Bin Cui.  
 IEEE Transactions on Knowledge and Data Engineering.  
 ***TKDE 2024, CCF-A.***
