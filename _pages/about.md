@@ -28,17 +28,17 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 ### 2024
 
-1. **PQCache: Product Quantization-based KVCache for Long Context LLM Inference** [PDF](https://hugozhl.github.io/files/PQCache.pdf)
+1. **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://hugozhl.github.io/files/PQCache.pdf)
 **Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
 ***Preprint.***
 
 2. **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
-***Arxiv preprint.***
+***Preprint.***
 
-3. **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling** [PDF](https://arxiv.org/abs/2405.14578)  
+3. **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
 Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
-***Arxiv preprint.***
+***Preprint.***
 
 4. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
