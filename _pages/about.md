@@ -24,68 +24,71 @@ I am a 4th-year PhD student at the School of Computer Science, Peking University
 
 ## Publications
 
-`*` represents co-first author.
+Publications in reverse chronological order of acceptance date. `*` represents co-first author.
 
 ### 2024
 
-
-1. **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
-**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
-***Preprint.***
-
-2. **Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.** [PDF](https://arxiv.org/abs/2407.12117)  
+* **Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.** [PDF](https://arxiv.org/abs/2407.12117)  
 Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
 ***Preprint.***
 
-3. **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
-Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
+* **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
+**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
 ***Preprint.***
 
-4. **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
+* **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
 Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
 ***Preprint.***
 
-5. **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
-**Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
-ACM SIGMOD International Conference on Management of Data.  
-***SIGMOD 2024, CCF-A.***
+* **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
+Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
+***Preprint.***
 
-6. **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
-**Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
-International Conference on Very Large Data Bases.  
-***VLDB 2024, CCF-A.***
+* **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF coming soon]  
+Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui.  
+***SOSP 2024, CCF-A.***
 
-7. **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
+* **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
 Zirui Liu, Xiangyuan Wang, Yuhan Wu, Tong Yang, Kaicheng Yang, **Hailin Zhang**, Yaofeng Tu, Bin Cui.  
 IEEE Transactions on Knowledge and Data Engineering.  
 ***TKDE 2024, CCF-A.***
 
+* **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
+**Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
+ACM SIGMOD International Conference on Management of Data.  
+***SIGMOD 2024, CCF-A.***
+
+* **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
+**Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
+International Conference on Very Large Data Bases.  
+***VLDB 2024, CCF-A.***
+
 ### 2023
-1. **Model-enhanced Vector Index.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)  
+* **Model-enhanced Vector Index.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)  
 **Hailin Zhang**, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2023, CCF-A.***
 
-2. **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [PDF](https://dl.acm.org/doi/10.14778/3570690.3570697)  
+* **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [PDF](https://dl.acm.org/doi/10.14778/3570690.3570697)  
 Xupeng Miao, Yujie Wang, Youhe Jiang, Chunan Shi, Xiaonan Nie, **Hailin Zhang**, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2023, CCF-A.***
 
 ### 2022
-1. **Hetu: A Highly Efficient Automatic Parallel Distributed Deep Learning System.** [PDF](http://scis.scichina.com/en/2023/117101.pdf)  
+* **Hetu: A Highly Efficient Automatic Parallel Distributed Deep Learning System.** [PDF](http://scis.scichina.com/en/2023/117101.pdf)  
 Xupeng Miao, Xiaonan Nie, **Hailin Zhang**, Tong Zhao, Bin Cui.  
 Science China Information Sciences.  
 ***SCIS 2022, CCF-A.***
 
-2. **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [PDF](https://dl.acm.org/doi/10.14778/3489496.3489511)  
-Xupeng Miao\*, **Hailin Zhang**\*, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
-International Conference on Very Large Data Bases.  
-***VLDB 2022, CCF-A,*** <font color=orange><strong>Best Scalable Data Science Paper!</strong></font>
-
-3. **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [PDF](https://dl.acm.org/doi/10.1145/3514221.3517902)  
+* **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [PDF](https://dl.acm.org/doi/10.1145/3514221.3517902)  
 Xupeng Miao, Yining Shi, **Hailin Zhang**, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2022, CCF-A.***
+
+* **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [PDF](https://dl.acm.org/doi/10.14778/3489496.3489511)  
+Xupeng Miao\*, **Hailin Zhang**\*, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
+International Conference on Very Large Data Bases.  
+***VLDB 2022, CCF-A,*** <font color=orange><strong>Best Scalable Data Science Paper!</strong></font>
 
 
 ## Systems
