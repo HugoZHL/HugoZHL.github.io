@@ -36,13 +36,13 @@ Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, 
 **Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
 ***Preprint.***
 
-* **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
-Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
-***Preprint.***
-
 * **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
 ***Preprint.***
+
+* **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
+Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
+***NeurIPS 2024, CCF-A.***
 
 * **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF coming soon]  
 Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui.  
