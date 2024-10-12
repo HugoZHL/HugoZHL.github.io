@@ -10,7 +10,7 @@ redirect_from:
 
 Email: z.hl [AT] pku.edu.cn
 
-I am a 4th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of MLSys (Machine Learning System), with a focus on large-scale LLM (Large Language Model), DLRM (Deep Learning Recommendation Model), IR (Information Retrieval), and general distributed computing.
+I am a 5th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of MLSys (Machine Learning System), with a focus on large-scale LLM (Large Language Model), DLRM (Deep Learning Recommendation Model), IR (Information Retrieval), and general distributed computing.
 
 <font color=orange>I am currently on the job market. Please feel free to reach out if you have openings.</font>
 
