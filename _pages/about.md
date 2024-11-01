@@ -26,15 +26,20 @@ I am a 5th-year PhD student at the School of Computer Science, Peking University
 
 Publications in reverse chronological order of acceptance date. `*` represents co-first author.
 
+
+### 2025
+
+
+* **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://arxiv.org/abs/2407.12117)  
+Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
+***SIGMOD 2025, CCF-A.***
+
+
 ### 2024
 
 
 * **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://arxiv.org/abs/2410.13333)  
 Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
-***Preprint.***
-
-* **Efficiently Training 7B LLM with 1 Million Sequence Length on 8 GPUs.** [PDF](https://arxiv.org/abs/2407.12117)  
-Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
 ***Preprint.***
 
 * **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
