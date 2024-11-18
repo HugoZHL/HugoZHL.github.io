@@ -54,7 +54,7 @@ Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fang
 Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
 ***NeurIPS 2024, CCF-A.***
 
-* **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF coming soon]  
+* **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF](https://dl.acm.org/doi/10.1145/3694715.3695969)  
 Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui.  
 ***SOSP 2024, CCF-A.***
 
