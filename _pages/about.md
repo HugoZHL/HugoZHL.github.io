@@ -36,6 +36,7 @@ Transactions on Information Systems.
 
 * **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://arxiv.org/abs/2407.12117)  
 Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
+ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
 
 
@@ -56,10 +57,12 @@ Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fang
 
 * **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
 Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
+Conference on Neural Information Processing Systems.  
 ***NeurIPS 2024, CCF-A.***
 
 * **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF](https://dl.acm.org/doi/10.1145/3694715.3695969)  
 Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui.  
+Symposium on Operating Systems Principles.  
 ***SOSP 2024, CCF-A.***
 
 * **A Unified Framework for Mining Batch and Periodic Batch in Data Streams.** [PDF](https://ieeexplore.ieee.org/abstract/document/10526411)  
