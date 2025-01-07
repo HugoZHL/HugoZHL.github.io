@@ -29,6 +29,10 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2025
 
+* **CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models.** (PDF coming soon)  
+Zirui Liu\*, **Hailin Zhang**\*, Boxuan Chen\*, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang, Bin Cui.  
+Transactions on Information Systems.  
+***TOIS 2025, CCF-A.***
 
 * **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://arxiv.org/abs/2407.12117)  
 Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
