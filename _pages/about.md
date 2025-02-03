@@ -29,7 +29,19 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2025
 
-* **CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models.** (PDF coming soon)  
+* **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
+**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
+ACM SIGMOD International Conference on Management of Data.  
+***SIGMOD 2025, CCF-A.***
+
+
+* **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://arxiv.org/abs/2410.13333)  
+Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
+ACM SIGMOD International Conference on Management of Data.  
+***SIGMOD 2025, CCF-A.***
+
+
+* **CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3713072)  
 Zirui Liu\*, **Hailin Zhang**\*, Boxuan Chen\*, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang, Bin Cui.  
 Transactions on Information Systems.  
 ***TOIS 2025, CCF-A.***
@@ -41,15 +53,6 @@ ACM SIGMOD International Conference on Management of Data.
 
 
 ### 2024
-
-
-* **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://arxiv.org/abs/2410.13333)  
-Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
-***Preprint.***
-
-* **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
-**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
-***Preprint.***
 
 * **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
