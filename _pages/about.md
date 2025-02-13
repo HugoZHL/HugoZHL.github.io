@@ -46,7 +46,7 @@ Zirui Liu\*, **Hailin Zhang**\*, Boxuan Chen\*, Zihan Jiang, Yikai Zhao, Yangyu 
 Transactions on Information Systems.  
 ***TOIS 2025, CCF-A.***
 
-* **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://arxiv.org/abs/2407.12117)  
+* **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://dl.acm.org/doi/10.1145/3709703)  
 Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
