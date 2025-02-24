@@ -29,6 +29,11 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2025
 
+* **Efficient and Scalable Huge Embedding Model Training via Distributed Cache Management.** [PDF coming soon]  
+Xupeng Miao, **Hailin Zhang**, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Jie Jiang, Bin Cui.  
+The International Journal on Very Large Data Bases.  
+***VLDBJ 2025, CCF-A.***
+
 * **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
 **Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
