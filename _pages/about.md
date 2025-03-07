@@ -12,7 +12,7 @@ Email: z.hl [AT] pku.edu.cn
 
 I am a 5th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of MLSys (Machine Learning System), with a focus on large-scale LLM (Large Language Model), DLRM (Deep Learning Recommendation Model), IR (Information Retrieval), and general distributed computing.
 
-<font color=orange>I am currently on the job market. Please feel free to reach out if you have openings.</font>
+<!-- <font color=orange>I am currently on the job market. Please feel free to reach out if you have openings.</font> -->
 
 ## Education
 * PhD, major in Computer Science  
@@ -29,7 +29,7 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2025
 
-* **Efficient and Scalable Huge Embedding Model Training via Distributed Cache Management.** [PDF coming soon]  
+* **Efficient and Scalable Huge Embedding Model Training via Distributed Cache Management.** [PDF](https://link.springer.com/article/10.1007/s00778-025-00908-w)  
 Xupeng Miao, **Hailin Zhang**, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Jie Jiang, Bin Cui.  
 The International Journal on Very Large Data Bases.  
 ***VLDBJ 2025, CCF-A.***
@@ -63,7 +63,7 @@ ACM SIGMOD International Conference on Management of Data.
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
 ***Preprint.***
 
-* **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://arxiv.org/abs/2405.14578)  
+* **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/ef74413c7bf1d915c3e45c72e19a5d32-Paper-Conference.pdf)  
 Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2024, CCF-A.***
