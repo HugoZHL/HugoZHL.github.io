@@ -81,7 +81,7 @@ IEEE Transactions on Knowledge and Data Engineering.
 * **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
 **Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
-***SIGMOD 2024, CCF-A.***
+***SIGMOD 2024, CCF-A.*** <font color=orange><strong>Honorable Mention for Best Artifact!</strong></font>
 
 * **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
 **Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
