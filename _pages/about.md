@@ -10,13 +10,30 @@ redirect_from:
 
 Email: z.hl [AT] pku.edu.cn
 
-I am a 5th-year PhD student at the School of Computer Science, Peking University, under the supervision of Professor [Bin Cui](https://cuibinpku.github.io/). My research interests primarily lie in the field of MLSys (Machine Learning System), with a focus on large-scale LLM (Large Language Model), DLRM (Deep Learning Recommendation Model), IR (Information Retrieval), and general distributed computing.
+Hailin Zhang currently works at [Xiaomi MiMo](https://mimo.xiaomi.com/), specializing in AI infrastructure. He is building efficient, scalable, and stable RL infrastructures for the [MiMo series models](https://huggingface.co/XiaomiMiMo). He earned his Ph.D. in Computer Science from Peking University in 2025, advised by Prof. [Bin Cui](https://cuibinpku.github.io/), where his academic excellence was recognized with the **Peking University Outstanding Doctoral Dissertation Award**.
 
-<!-- <font color=orange>I am currently on the job market. Please feel free to reach out if you have openings.</font> -->
+With over 10 publications in top-tier conferences, Hailin Zhang's research interests lie in the field of MLSys (Machine Learning Systems), with a focus on large-scale LLMs, DLRMs, Information Retrieval (IR), and general distributed computing. His first-author research has earned prestigious accolades, including the **Best Scalable Data Science Paper Award** at VLDB 2022 and an **Honorable Mention for Best Artifact** at SIGMOD 2024.
+
+Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/Hetu) distributed deep learning system in 2021, the same year the project was recognized with the [Synced Machine Intelligence TOP-10 Open Source Awards](https://www.jiqizhixin.com/awards/2021/events). He created [PQCache](https://github.com/HugoZHL/PQCache), which ranks as the top-performing sparse decoding method on the [SkyLight benchmark](https://sky-light.eecs.berkeley.edu/).
+
+<font color=orange>[Hiring] I am looking for highly motivated full-time engineers and research interns in AI/RL Infrastructure to join us in building next-generation AGI. If you are passionate about AI/RL Infra and the future of AGI, please reach out to me or send your resume to [mimo@xiaomi.com](mimo@xiaomi.com).</font>
+
+## Technical Reports:
+
+* **[MiMo-V2-Flash]** MiMo-V2-Flash Technical Report. [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf)  
+<font color=orange><strong>RL Infra Highlights: [R3](https://arxiv.org/pdf/2510.11370) for stable training; Data Scheduler for multi-source fine-grained dynamic sampling; Toolbox and Tool Manager for efficient RL agent training.</strong></font>
+
+* **[MiMo-Audio]** MiMo-Audio: Audio Language Models are Few-Shot Learners. [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf)
+
+* **[MiMo-VL]** MiMo-VL Technical Report. [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf)
+
+* **[MiMo]** MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining. [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf)  
+<font color=orange><strong>RL Infra Highlights: Seamless Rollout Engine for efficient dynamic sampling-based RL.</strong></font>
+
 
 ## Education
 * PhD, major in Computer Science  
-*Peking University 2020-Now*
+*Peking University 2020-2025*
 
 * BS, major in Computer Science; BEc, double major in Economics  
 *Peking University 2016-2020*
@@ -29,18 +46,29 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2025
 
+* **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
+Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
+***Preprint.***
+
+
+* **SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling.** [PDF](https://arxiv.org/pdf/2505.24179)  
+Xiaodong Ji, **Hailin Zhang**, Fangcheng Fu, Bin Cui.  
+***Preprint.***
+
+
 * **Efficient and Scalable Huge Embedding Model Training via Distributed Cache Management.** [PDF](https://link.springer.com/article/10.1007/s00778-025-00908-w)  
 Xupeng Miao, **Hailin Zhang**, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Jie Jiang, Bin Cui.  
 The International Journal on Very Large Data Bases.  
 ***VLDBJ 2025, CCF-A.***
 
-* **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://arxiv.org/abs/2407.12820)  
+
+* **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://dl.acm.org/doi/10.1145/3725338)  
 **Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
 
 
-* **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://arxiv.org/abs/2410.13333)  
+* **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://dl.acm.org/doi/10.1145/3725322)  
 Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
