@@ -14,7 +14,7 @@ Hailin Zhang currently works at [Xiaomi MiMo](https://mimo.xiaomi.com/), special
 
 With over 10 publications in top-tier conferences, Hailin Zhang's research interests lie in the field of MLSys (Machine Learning Systems), with a focus on large-scale LLMs, DLRMs, Information Retrieval (IR), and general distributed computing. His first-author research has earned prestigious accolades, including the **Best Scalable Data Science Paper Award** at VLDB 2022 and an **Honorable Mention for Best Artifact** at SIGMOD 2024.
 
-Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/Hetu) distributed deep learning system in 2021, the same year the project was recognized with the [Synced Machine Intelligence TOP-10 Open Source Awards](https://www.jiqizhixin.com/awards/2021/events). He created [PQCache](https://github.com/HugoZHL/PQCache), which ranks as the top-performing sparse decoding method on the [SkyLight benchmark](https://sky-light.eecs.berkeley.edu/).
+Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/Hetu) distributed deep learning system in 2021, the same year the project was recognized with the [Synced Machine Intelligence TOP-10 Open Source Awards](https://www.jiqizhixin.com/awards/2021/events). He created [PQCache](https://github.com/HugoZHL/PQCache), which ranks as the top-performing LLM sparse decoding method on the [SkyLight benchmark](https://sky-light.eecs.berkeley.edu/).
 
 <font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo@xiaomi.com.</font>
 
