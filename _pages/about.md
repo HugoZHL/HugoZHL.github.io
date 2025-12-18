@@ -18,7 +18,7 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 <font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo@xiaomi.com.</font>
 
-## Technical Reports:
+## Technical Reports
 
 * **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
 *RL Infra Highlights*: [**R3**](https://arxiv.org/pdf/2510.11370) for stable training; **Data Scheduler** for multi-source fine-grained dynamic sampling; **Toolbox** and **Tool Manager** for efficient RL agent training.
