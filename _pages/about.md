@@ -16,18 +16,18 @@ With over 10 publications in top-tier conferences, Hailin Zhang's research inter
 
 Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/Hetu) distributed deep learning system in 2021, the same year the project was recognized with the [Synced Machine Intelligence TOP-10 Open Source Awards](https://www.jiqizhixin.com/awards/2021/events). He created [PQCache](https://github.com/HugoZHL/PQCache), which ranks as the top-performing sparse decoding method on the [SkyLight benchmark](https://sky-light.eecs.berkeley.edu/).
 
-<font color=orange>[Hiring]</font> *I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to [mimo@xiaomi.com](mimo@xiaomi.com).*
+<font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo@xiaomi.com.</font>
 
 ## Technical Reports:
 
-* **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Model](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
+* **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
 *RL Infra Highlights*: [**R3**](https://arxiv.org/pdf/2510.11370) for stable training; **Data Scheduler** for multi-source fine-grained dynamic sampling; **Toolbox** and **Tool Manager** for efficient RL agent training.
 
-* **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Model](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
+* **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
 
-* **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Model](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)
+* **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)
 
-* **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Model](https://huggingface.co/collections/XiaomiMiMo/mimo)  
+* **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo)  
 *RL Infra Highlights*: **Seamless Rollout Engine** for efficient dynamic sampling-based RL.
 
 
