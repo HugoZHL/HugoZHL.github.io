@@ -21,14 +21,17 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 ## Technical Reports
 
 * **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
-*RL Infra Highlights*: [**R3**](https://arxiv.org/pdf/2510.11370) for stable training; **Data Scheduler** for multi-source fine-grained dynamic sampling; **Toolbox** and **Tool Manager** for efficient RL agent training.
+  - 🚀 **RL Infra Highlights**: Introduces [*R3*](https://arxiv.org/pdf/2510.11370) and *request-level cache* for stable training; develops *Data Scheduler* for seamless multi-source fine-grained dynamic sampling; provides *Toolbox* and *Tool Manager* for scalable RL agent training with unified tool management.  
+  - 🎯 **RL Training Highlights**: Supports both non-agentic and agentic RL training, boosting SWE-Verified from ~66 to ~74 and SWE-Multilingual from ~56 to ~74 with over 100K code agent environments; enables efficient multi-teacher on-policy distillation with multiple teachers.
 
 * **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
 
-* **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)
+* **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)  
+  - 🎯 **RL Training Highlights**: Supports mixed on-policy RL training across diverse tasks, including those with verifiable rewards and human feedback.
 
 * **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo)  
-*RL Infra Highlights*: **Seamless Rollout Engine** for efficient dynamic sampling-based RL.
+  - 🚀 **RL Infra Highlights**: Builds *Seamless Rollout Engine* (continuous rollout, asynchronous reward computation, and early termination) for efficient dynamic sampling-based RL.  
+  - 🎯 **RL Training Highlights**: Enables on-policy RL with extended generation budget on 7B model, achieving parity with the Deepseek-R1 performance in mathematical reasoning.
 
 
 ## Education
