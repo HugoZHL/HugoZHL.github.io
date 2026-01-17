@@ -47,7 +47,7 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 Publications in reverse chronological order of acceptance date. `*` represents co-first author.
 
 
-### 2025
+### 2026
 
 * **Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization.** [PDF](https://arxiv.org/pdf/2601.06052)  
 Hanyu Li, Jiangshan Duo, Bofei Gao, **Hailin Zhang**, Sujian Li, Xiaotie Deng, Liang Zhao.  
@@ -56,6 +56,8 @@ Hanyu Li, Jiangshan Duo, Bofei Gao, **Hailin Zhang**, Sujian Li, Xiaotie Deng, L
 * **JudgeRLVR: Judge First, Generate Second for Efficient Reasoning.** [PDF](https://arxiv.org/pdf/2601.08468)  
 Jiangshan Duo, Hanyu Li, **Hailin Zhang**, Yudong Wang, Sujian Li, Liang Zhao.  
 ***Preprint.***
+
+### 2025
 
 * **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
 Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
