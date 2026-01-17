@@ -16,7 +16,7 @@ With over 10 publications in top-tier conferences, Hailin Zhang's research inter
 
 Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/Hetu) distributed deep learning system in 2021, the same year the project was recognized with the [Synced Machine Intelligence TOP-10 Open Source Awards](https://www.jiqizhixin.com/awards/2021/events). He created [PQCache](https://github.com/HugoZHL/PQCache), which ranks as the top-performing LLM sparse decoding method on the [SkyLight benchmark](https://sky-light.eecs.berkeley.edu/).
 
-<font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo@xiaomi.com.</font>
+<font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo [AT] xiaomi.com.</font>
 
 ## Technical Reports
 
@@ -48,6 +48,14 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 
 ### 2025
+
+* **Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization.** [PDF](https://arxiv.org/pdf/2601.06052)  
+Hanyu Li, Jiangshan Duo, Bofei Gao, **Hailin Zhang**, Sujian Li, Xiaotie Deng, Liang Zhao.  
+***Preprint.***
+
+* **JudgeRLVR: Judge First, Generate Second for Efficient Reasoning.** [PDF](https://arxiv.org/pdf/2601.08468)  
+Jiangshan Duo, Hanyu Li, **Hailin Zhang**, Yudong Wang, Sujian Li, Liang Zhao.  
+***Preprint.***
 
 * **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
 Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
