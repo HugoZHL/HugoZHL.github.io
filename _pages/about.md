@@ -18,7 +18,9 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 <font color=orange><strong>[Hiring]</strong> I am looking for highly motivated full-time engineers and research interns in AI/RL Infra to join us in building next-generation AGI. If interested, please reach out to me or send your resume to mimo [AT] xiaomi.com.</font>
 
-## Technical Reports
+## Model Releases
+
+* **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com)  
 
 * **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
   - 🚀 **RL Infra Highlights**: Introduces [*R3*](https://arxiv.org/pdf/2510.11370) and *request-level cache* for stable training; develops *Data Scheduler* for seamless multi-source fine-grained dynamic sampling; provides *Toolbox* and *Tool Manager* for scalable RL agent training with unified tool management; *FP8* for both training and rollout.
@@ -44,10 +46,14 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Publications
 
-Publications in reverse chronological order of acceptance date. `*` represents co-first author.
+Publications in reverse chronological order of acceptance date. `*` represents co-first author or project leader.
 
 
 ### 2026
+
+* **ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2603.13019)  
+Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**\*, Xuanzhe Liu, Xin Jin, Fuli Luo.  
+***Preprint.***
 
 * **HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing.** [PDF](https://arxiv.org/pdf/2602.03560)  
 Yizhao Gao, Jianyu Wei, Qihao Zhang, Yu Cheng, Shimao Chen, Zhengju Tang, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo.  
