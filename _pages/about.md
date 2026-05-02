@@ -51,6 +51,22 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2026
 
+* **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF coming soon]  
+Wenhao Li, Jinhao Dong, **Hailin Zhang**, Wenhang Shi, Wei Lu, Xiaoyong Du.  
+International Conference on Machine Learning.  
+***ICML 2026, CCF-A.***
+
+
+* **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
+Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
+International Conference on Machine Learning.  
+***ICML 2026, CCF-A.***
+
+* **SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling.** [PDF](https://arxiv.org/pdf/2505.24179)  
+Xiaodong Ji, **Hailin Zhang**, Fangcheng Fu, Bin Cui.  
+International Conference on Machine Learning.  
+***ICML 2026, CCF-A.***
+
 * **ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2603.13019)  
 Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**\*, Xuanzhe Liu, Xin Jin, Fuli Luo.  
 ***Preprint.***
@@ -68,16 +84,6 @@ Jiangshan Duo, Hanyu Li, **Hailin Zhang**, Yudong Wang, Sujian Li, Liang Zhao.
 ***Preprint.***
 
 ### 2025
-
-* **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
-Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
-***Preprint.***
-
-
-* **SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling.** [PDF](https://arxiv.org/pdf/2505.24179)  
-Xiaodong Ji, **Hailin Zhang**, Fangcheng Fu, Bin Cui.  
-***Preprint.***
-
 
 * **Efficient and Scalable Huge Embedding Model Training via Distributed Cache Management.** [PDF](https://link.springer.com/article/10.1007/s00778-025-00908-w)  
 Xupeng Miao, **Hailin Zhang**, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Jie Jiang, Bin Cui.  
