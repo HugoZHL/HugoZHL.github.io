@@ -23,10 +23,11 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 * **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
 
 * **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com)  
+  - 🚀 **RL Infra Highlights**: Efficient RL/MOPD training for 1T model and omni model.
 
 * **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
   - 🚀 **RL Infra Highlights**: Introduces [*R3*](https://arxiv.org/pdf/2510.11370) and *request-level cache* for stable training; develops *Data Scheduler* for seamless multi-source fine-grained dynamic sampling; provides *Toolbox* and *Tool Manager* for scalable RL agent training with unified tool management; *FP8* for both training and rollout.
-  - 🎯 **RL Training Highlights**: Supports both non-agentic and agentic RL training, boosting SWE-Verified from ~66 to ~74 and SWE-Multilingual from ~56 to ~74 with over 100K code agent environments; enables efficient multi-teacher on-policy distillation with multiple teachers.
+  - 🎯 **RL Training Highlights**: Supports both non-agentic and agentic RL training, boosting SWE-Verified from ~66 to ~74 and SWE-Multilingual from ~56 to ~74 with over 100K code agent environments; enables efficient Multi-teacher On-Policy Distillation (MOPD) with multiple teachers.
 
 * **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
 
