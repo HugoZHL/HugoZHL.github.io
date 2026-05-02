@@ -20,6 +20,8 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Model Releases
 
+* **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
+
 * **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com)  
 
 * **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
