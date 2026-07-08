@@ -55,7 +55,7 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2026
 
-* **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training.** [PDF](https://arxiv.org/abs/2606.30406)  
+* **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training.** [PDF](https://arxiv.org/pdf/2606.30406)  
 Wenhan Ma, Jianyu Wei, Liang Zhao, **Hailin Zhang**, Bangjun Xiao, Lei Li, Qibin Yang, Bofei Gao, Yudong Wang, Rang Li, Jinhao Dong, Zhifang Sui, Fuli Luo.  
 ***Preprint.***
 
@@ -124,7 +124,7 @@ ACM SIGMOD International Conference on Management of Data.
 
 ### 2024
 
-* **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/abs/2402.19473)  
+* **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/pdf/2402.19473)  
 Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
 ***Preprint.***
 
