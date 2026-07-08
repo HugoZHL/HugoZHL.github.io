@@ -21,6 +21,7 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 ## Model Releases
 
 * **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
+  - 🚀 **Inference Infra Highlights**: [Pushing hybrid SWA efficiency to the limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference).
 
 * **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com)  
   - 🚀 **RL Infra Highlights**: Efficient RL/MOPD training for 1T model and omni model.
@@ -54,7 +55,11 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2026
 
-* **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF coming soon]  
+* **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training.** [PDF](https://arxiv.org/abs/2606.30406)  
+Wenhan Ma, Jianyu Wei, Liang Zhao, **Hailin Zhang**, Bangjun Xiao, Lei Li, Qibin Yang, Bofei Gao, Yudong Wang, Rang Li, Jinhao Dong, Zhifang Sui, Fuli Luo.  
+***Preprint.***
+
+* **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF](https://arxiv.org/pdf/2606.31519)  
 Wenhao Li, Jinhao Dong, **Hailin Zhang**, Wenhang Shi, Wei Lu, Xiaoyong Du.  
 International Conference on Machine Learning.  
 ***ICML 2026, CCF-A.***
