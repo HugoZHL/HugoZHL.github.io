@@ -20,6 +20,10 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Model Releases
 
+* **MiMo-V2.6.** [PDF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/main/MiMo_V2_6_technical_report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v26)  
+  - 🚀 **RL Infra Highlights**: Introduces *Trajectory Hierarchy* and *Penalty Module* for fine-grained agentic RL; implements *Harness Pool* and *Payload Porter* for multi-harness large batch RL; designs *Sample Mixer* for efficient mixed-task RL; extends *Context Cache* and incorporates *DFlash* for efficient rollout.
+  - 🎯 **RL Training Highlights**: Streams our large-scale RL runs at [mimo.xiaomi.com/rl](https://mimo.xiaomi.com/rl/), boosting DeepSWE (avg@3) from 58.4 to 72.6 on MiMo-V2.6-Pro and from 48.7 to 65.7 on MiMo-V2.6-Flash.
+
 * **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
   - 🚀 **Inference Infra Highlights**: [Pushing hybrid SWA efficiency to the limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference).
 
@@ -55,9 +59,20 @@ Publications in reverse chronological order of acceptance date. `*` represents c
 
 ### 2026
 
+* **HySparse2: Hybrid Sparse Attention with Two-Level KV Sharing.** [PDF](https://arxiv.org/pdf/2609.26368)  
+Jianyu Wei, Yizhao Gao, Qihao Zhang, Shimao Chen, Zhengju Tang, Yu Cheng, Shengjie Zhou, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo.  
+***Preprint.***
+
+
+* **CodeMidas: Scaling Agentic Coding RL Environments from Code Itself.** [PDF](https://arxiv.org/pdf/2609.22068)  
+Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang, Hanglong Lv, Yuanxin Liu, Wenhan Ma, Hao Tian, Rang Li, Jinhao Dong, Yikai Zhao, Xiangwei Deng, **Hailin Zhang**, Liang Zhao, Qi Liu, Lingpeng Kong, Tong Yang, Fuli Luo.  
+***Preprint.***
+
+
 * **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training.** [PDF](https://arxiv.org/pdf/2606.30406)  
 Wenhan Ma, Jianyu Wei, Liang Zhao, **Hailin Zhang**, Bangjun Xiao, Lei Li, Qibin Yang, Bofei Gao, Yudong Wang, Rang Li, Jinhao Dong, Zhifang Sui, Fuli Luo.  
 ***Preprint.***
+
 
 * **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF](https://arxiv.org/pdf/2606.31519)  
 Wenhao Li, Jinhao Dong, **Hailin Zhang**, Wenhang Shi, Wei Lu, Xiaoyong Du.  
