@@ -36,10 +36,10 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 * [2025.09] **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
 
-* [2025.06] **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)  
+* [2025.05] **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)  
   - 🎯 **RL Training Highlights**: Supports mixed on-policy RL training across diverse tasks, including those with verifiable rewards and human feedback.
 
-* [2025.05] **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-7b)  
+* [2025.04] **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-7b)  
   - 🚀 **RL Infra Highlights**: Builds *Seamless Rollout Engine* (continuous rollout, asynchronous reward computation, and early termination) for efficient dynamic sampling-based RL.  
   - 🎯 **RL Training Highlights**: Enables on-policy RL with extended generation budget on 7B model, achieving parity with the Deepseek-R1 performance in mathematical reasoning.
 
