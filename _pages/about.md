@@ -54,10 +54,15 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Publications
 
-Publications in reverse chronological order of acceptance date. `*` represents co-first author or project leader.
+Publications are listed in reverse chronological order by acceptance date. Symbols denote author roles: * co-first author (equal contribution), † project lead, ‡ corresponding author.
 
 
 ### 2026
+
+* **Prorsa: Unleashing the Potential of Prefill-Decode Disaggregation in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2610.16592)  
+Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji, Yikai Zhao, Xin Jin, **Hailin Zhang**‡.  
+***Preprint.***
+
 
 * **HySparse2: Hybrid Sparse Attention with Two-Level KV Sharing.** [PDF](https://arxiv.org/pdf/2609.26368)  
 Jianyu Wei, Yizhao Gao, Qihao Zhang, Shimao Chen, Zhengju Tang, Yu Cheng, Shengjie Zhou, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo.  
@@ -91,7 +96,7 @@ International Conference on Machine Learning.
 ***ICML 2026, CCF-A.***
 
 * **ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2603.13019)  
-Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**\*, Xuanzhe Liu, Xin Jin, Fuli Luo.  
+Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**†, Xuanzhe Liu, Xin Jin, Fuli Luo.  
 ***Preprint.***
 
 * **HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing.** [PDF](https://arxiv.org/pdf/2602.03560)  
