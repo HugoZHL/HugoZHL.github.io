@@ -54,7 +54,7 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Publications
 
-Publications are listed in reverse chronological order by acceptance date. Symbols denote author roles: `$\ast$` co-first author (equal contribution), `$\dagger$` project lead, `$\S$` corresponding author.
+Publications are listed in reverse chronological order by acceptance date. Symbols denote author roles: `*` co-first author (equal contribution), `†` project lead, `§` corresponding author.
 
 
 ### 2026
