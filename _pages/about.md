@@ -20,26 +20,26 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Model Releases
 
-* **MiMo-V2.6.** [PDF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/main/MiMo_V2_6_technical_report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v26)  
+* [2026.09] **MiMo-V2.6-Pro & Flash.** [PDF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/main/MiMo_V2_6_technical_report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v26)  
   - 🚀 **RL Infra Highlights**: Introduces *Trajectory Hierarchy* and *Penalty Module* for fine-grained agentic RL; implements *Harness Pool* and *Payload Porter* for multi-harness large batch RL; designs *Sample Mixer* for efficient mixed-task RL; extends *Context Cache* and incorporates *DFlash* for efficient rollout.
-  - 🎯 **RL Training Highlights**: Streams our large-scale RL runs at [mimo.xiaomi.com/rl](https://mimo.xiaomi.com/rl/), boosting DeepSWE (avg@3) from 58.4 to 72.6 on MiMo-V2.6-Pro and from 48.7 to 65.7 on MiMo-V2.6-Flash.
+  - 🎯 **RL Training Highlights**: Streams our large-scale RL runs at [mimo.xiaomi.com/rl](https://mimo.xiaomi.com/rl/mimo-v26/), boosting DeepSWE (avg@3) from 58.4 to 72.6 on MiMo-V2.6-Pro and from 48.7 to 65.7 on MiMo-V2.6-Flash.
 
-* **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
+* [2026.04] **MiMo-V2.5 & Pro & TTS.** [Blogs](https://mimo.xiaomi.com/mimo-v2-5-pro) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v25)  
   - 🚀 **Inference Infra Highlights**: [Pushing hybrid SWA efficiency to the limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference).
 
-* **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com)  
+* [2026.03] **MiMo-V2-Pro & Omni & TTS.** [Blogs](https://mimo.xiaomi.com/mimo-v2-pro)  
   - 🚀 **RL Infra Highlights**: Efficient RL/MOPD training for 1T model and omni model.
 
-* **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
+* [2025.12] **MiMo-V2-Flash Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash)  
   - 🚀 **RL Infra Highlights**: Introduces [*R3*](https://arxiv.org/pdf/2510.11370) and *request-level cache* for stable training; develops *Data Scheduler* for seamless multi-source fine-grained dynamic sampling; provides *Toolbox* and *Tool Manager* for scalable RL agent training with unified tool management; *FP8* for both training and rollout.
   - 🎯 **RL Training Highlights**: Supports both non-agentic and agentic RL training, boosting SWE-Verified from ~66 to ~74 and SWE-Multilingual from ~56 to ~74 with over 100K code agent environments; enables efficient Multi-teacher On-Policy Distillation (MOPD) with multiple teachers.
 
-* **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
+* [2025.09] **MiMo-Audio: Audio Language Models are Few-Shot Learners.** [PDF](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-audio)
 
-* **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)  
+* [2025.06] **MiMo-VL Technical Report.** [PDF](https://github.com/XiaomiMiMo/MiMo-VL/blob/main/MiMo-VL-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-vl)  
   - 🎯 **RL Training Highlights**: Supports mixed on-policy RL training across diverse tasks, including those with verifiable rewards and human feedback.
 
-* **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo)  
+* [2025.05] **MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining.** [PDF](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) & [Models](https://huggingface.co/collections/XiaomiMiMo/mimo-7b)  
   - 🚀 **RL Infra Highlights**: Builds *Seamless Rollout Engine* (continuous rollout, asynchronous reward computation, and early termination) for efficient dynamic sampling-based RL.  
   - 🎯 **RL Training Highlights**: Enables on-policy RL with extended generation budget on 7B model, achieving parity with the Deepseek-R1 performance in mathematical reasoning.
 
