@@ -65,51 +65,61 @@ Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji, Yikai Zhao, Xin Jin, **Ha
 
 
 * **HySparse2: Hybrid Sparse Attention with Two-Level KV Sharing.** [PDF](https://arxiv.org/pdf/2609.26368)  
-Jianyu Wei, Yizhao Gao, Qihao Zhang, Shimao Chen, Zhengju Tang, Yu Cheng, Shengjie Zhou, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo.  
+Jianyu Wei$^{\ast}$, Yizhao Gao$^{\ast}$, Qihao Zhang, Shimao Chen, Zhengju Tang, Yu Cheng, Shengjie Zhou, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao$^{\S}$, Fuli Luo$^{\dagger\S}$.  
 ***Preprint.***
 
 
 * **CodeMidas: Scaling Agentic Coding RL Environments from Code Itself.** [PDF](https://arxiv.org/pdf/2609.22068)  
-Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang, Hanglong Lv, Yuanxin Liu, Wenhan Ma, Hao Tian, Rang Li, Jinhao Dong, Yikai Zhao, Xiangwei Deng, **Hailin Zhang**, Liang Zhao, Qi Liu, Lingpeng Kong, Tong Yang, Fuli Luo.  
+Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang, Hanglong Lv, Yuanxin Liu, Wenhan Ma, Hao Tian, Rang Li, Jinhao Dong, Yikai Zhao, Xiangwei Deng, **Hailin Zhang**, Liang Zhao, Qi Liu, Lingpeng Kong, Tong Yang$^{\S}$, Fuli Luo$^{\S}$.  
 ***Preprint.***
 
 
 * **MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training.** [PDF](https://arxiv.org/pdf/2606.30406)  
-Wenhan Ma, Jianyu Wei, Liang Zhao, **Hailin Zhang**, Bangjun Xiao, Lei Li, Qibin Yang, Bofei Gao, Yudong Wang, Rang Li, Jinhao Dong, Zhifang Sui, Fuli Luo.  
+Wenhan Ma, Jianyu Wei, Liang Zhao, **Hailin Zhang**, Bangjun Xiao, Lei Li, Qibin Yang, Bofei Gao, Yudong Wang, Rang Li, Jinhao Dong, Zhifang Sui$^{\S}$, Fuli Luo$^{\S}$.  
 ***Preprint.***
 
 
-* **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF](https://arxiv.org/pdf/2606.31519)  
-Wenhao Li, Jinhao Dong, **Hailin Zhang**, Wenhang Shi, Wei Lu, Xiaoyong Du.  
+* **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference.** [PDF](https://proceedings.mlr.press/v306/li26al.html)  
+Wenhao Li, Jinhao Dong$^{\S}$, **Hailin Zhang**, Wenhang Shi, Wei Lu, Xiaoyong Du.  
 International Conference on Machine Learning.  
 ***ICML 2026, CCF-A.***
 
 
-* **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://arxiv.org/pdf/2510.11370)  
-Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui, Fuli Luo.  
+* **Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers.** [PDF](https://proceedings.mlr.press/v306/ma26aw.html)  
+Wenhan Ma, **Hailin Zhang**, Liang Zhao, Yifan Song, Yudong Wang, Zhifang Sui$^{\S}$, Fuli Luo$^{\S}$.  
 International Conference on Machine Learning.  
 ***ICML 2026, CCF-A.***
 
-* **SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling.** [PDF](https://arxiv.org/pdf/2505.24179)  
-Xiaodong Ji, **Hailin Zhang**, Fangcheng Fu, Bin Cui.  
+
+* **SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling.** [PDF](https://proceedings.mlr.press/v306/ji26m.html)  
+Xiaodong Ji, **Hailin Zhang**, Fangcheng Fu, Bin Cui$^{\S}$.  
 International Conference on Machine Learning.  
 ***ICML 2026, CCF-A.***
+
 
 * **ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2603.13019)  
-Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**$^{\dagger}$, Xuanzhe Liu, Xin Jin, Fuli Luo.  
+Bangjun Xiao$^{\ast}$, Yihao Zhao$^{\ast}$, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**$^{\dagger}$, Xuanzhe Liu, Xin Jin$^{\S}$, Fuli Luo$^{\S}$.  
 ***Preprint.***
+
 
 * **HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing.** [PDF](https://arxiv.org/pdf/2602.03560)  
-Yizhao Gao, Jianyu Wei, Qihao Zhang, Yu Cheng, Shimao Chen, Zhengju Tang, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo.  
+Yizhao Gao, Jianyu Wei, Qihao Zhang, Yu Cheng, Shimao Chen, Zhengju Tang, Zihan Jiang, Yifan Song, **Hailin Zhang**, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo$^{\S}$.  
 ***Preprint.***
+
 
 * **Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization.** [PDF](https://arxiv.org/pdf/2601.06052)  
-Hanyu Li, Jiangshan Duo, Bofei Gao, **Hailin Zhang**, Sujian Li, Xiaotie Deng, Liang Zhao.  
+Hanyu Li, Jiangshan Duo, Bofei Gao, **Hailin Zhang**, Sujian Li, Xiaotie Deng, Liang Zhao$^{\S}$.  
 ***Preprint.***
 
+
 * **JudgeRLVR: Judge First, Generate Second for Efficient Reasoning.** [PDF](https://arxiv.org/pdf/2601.08468)  
-Jiangshan Duo, Hanyu Li, **Hailin Zhang**, Yudong Wang, Sujian Li, Liang Zhao.  
+Jiangshan Duo, Hanyu Li, **Hailin Zhang**, Yudong Wang, Sujian Li$^{\S}$, Liang Zhao$^{\S}$.  
 ***Preprint.***
+
+
+* **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/pdf/2402.19473)  
+Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu$^{\S}$, Ling Yang, Wentao Zhang$^{\S}$, Jie Jiang, Bin Cui$^{\S}$.  
+***Data Science and Engineering 2026.***
 
 ### 2025
 
@@ -120,41 +130,38 @@ The International Journal on Very Large Data Bases.
 
 
 * **PQCache: Product Quantization-based KVCache for Long Context LLM Inference.** [PDF](https://dl.acm.org/doi/10.1145/3725338)  
-**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.  
+**Hailin Zhang**, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui$^{\S}$.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
 
 
 * **Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization.** [PDF](https://dl.acm.org/doi/10.1145/3725322)  
-Haoyang Li, Fangcheng Fu, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
+Haoyang Li$^{\ast}$, Fangcheng Fu$^{\ast}$, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, **Hailin Zhang**, Xiaonan Nie, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
 
 
 * **CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3713072)  
-Zirui Liu$^{\ast}$, **Hailin Zhang**$^{\ast}$, Boxuan Chen$^{\ast}$, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang, Bin Cui.  
+Zirui Liu$^{\ast}$, **Hailin Zhang**$^{\ast}$, Boxuan Chen$^{\ast}$, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang$^{\S}$, Bin Cui$^{\S}$.  
 Transactions on Information Systems.  
 ***TOIS 2025, CCF-A.***
 
+
 * **MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training.** [PDF](https://dl.acm.org/doi/10.1145/3709703)  
-Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui.  
+Pinxue Zhao, **Hailin Zhang**, Fangcheng Fu$^{\S}$, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui$^{\S}$.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2025, CCF-A.***
 
 
 ### 2024
 
-* **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/pdf/2402.19473)  
-Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
-***Preprint.***
-
 * **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/ef74413c7bf1d915c3e45c72e19a5d32-Paper-Conference.pdf)  
-Shuaipeng Li$^{\ast}$, Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
+Shuaipeng Li$^{\ast\S}$, Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui$^{\S}$, Di Wang$^{\S}$.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2024, CCF-A.***
 
 * **Enabling Parallelism Hot Switching for Efficient Training of Large Language Models.** [PDF](https://dl.acm.org/doi/10.1145/3694715.3695969)  
-Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui.  
+Hao Ge$^{\ast}$, Fangcheng Fu$^{\ast\S}$, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, **Hailin Zhang**, Xupeng Miao, Bin Cui$^{\S}$.  
 Symposium on Operating Systems Principles.  
 ***SOSP 2024, CCF-A.***
 
@@ -164,39 +171,39 @@ IEEE Transactions on Knowledge and Data Engineering.
 ***TKDE 2024, CCF-A.***
 
 * **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
-**Hailin Zhang**$^{\ast}$, Zirui Liu$^{\ast}$, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
+**Hailin Zhang**$^{\ast}$, Zirui Liu$^{\ast}$, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang$^{\S}$, Bin Cui$^{\S}$.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A,*** <font color=orange><strong>Honorable Mention for Best Artifact!</strong></font>
 
 * **Experimental Analysis of Large-scale Learnable Vector Storage Compression.** [PDF](https://dl.acm.org/doi/10.14778/3636218.3636234)  
-**Hailin Zhang**, Penghao Zhao, Xupeng Miao, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui.  
+**Hailin Zhang**, Penghao Zhao, Xupeng Miao$^{\S}$, Yingxia Shao, Zirui Liu, Tong Yang, Bin Cui$^{\S}$.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2024, CCF-A.***
 
 ### 2023
 * **Model-enhanced Vector Index.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)  
-**Hailin Zhang**, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui.  
+**Hailin Zhang**, Yujing Wang$^{\S}$, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui$^{\S}$.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2023, CCF-A.***
 
 * **Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism.** [PDF](https://dl.acm.org/doi/10.14778/3570690.3570697)  
-Xupeng Miao, Yujie Wang, Youhe Jiang, Chunan Shi, Xiaonan Nie, **Hailin Zhang**, Bin Cui.  
+Xupeng Miao$^{\ast}$, Yujie Wang$^{\ast}$, Youhe Jiang, Chunan Shi, Xiaonan Nie, **Hailin Zhang**, Bin Cui$^{\S}$.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2023, CCF-A.***
 
 ### 2022
 * **Hetu: A Highly Efficient Automatic Parallel Distributed Deep Learning System.** [PDF](http://scis.scichina.com/en/2023/117101.pdf)  
-Xupeng Miao, Xiaonan Nie, **Hailin Zhang**, Tong Zhao, Bin Cui.  
+Xupeng Miao, Xiaonan Nie, **Hailin Zhang**, Tong Zhao, Bin Cui$^{\S}$.  
 Science China Information Sciences.  
 ***SCIS 2022, CCF-A.***
 
 * **HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.** [PDF](https://dl.acm.org/doi/10.1145/3514221.3517902)  
-Xupeng Miao, Yining Shi, **Hailin Zhang**, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui.  
+Xupeng Miao, Yining Shi, **Hailin Zhang**, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui$^{\S}$.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2022, CCF-A.***
 
 * **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [PDF](https://dl.acm.org/doi/10.14778/3489496.3489511)  
-Xupeng Miao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
+Xupeng Miao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Yining Shi, Xiaonan Nie, Zhi Yang$^{\S}$, Yangyu Tao, Bin Cui$^{\S}$.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2022, CCF-A,*** <font color=orange><strong>Best Scalable Data Science Paper!</strong></font>
 
