@@ -54,13 +54,13 @@ Hailin Zhang was the lead contributor to the [Hetu](https://github.com/PKU-DAIR/
 
 ## Publications
 
-Publications are listed in reverse chronological order by acceptance date. Symbols denote author roles: * co-first author (equal contribution), † project lead, ‡ corresponding author.
+Publications are listed in reverse chronological order by acceptance date. Symbols denote author roles: `$\ast$` co-first author (equal contribution), `$\dagger$` project lead, `$\S$` corresponding author.
 
 
 ### 2026
 
 * **Prorsa: Unleashing the Potential of Prefill-Decode Disaggregation in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2610.16592)  
-Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji, Yikai Zhao, Xin Jin, **Hailin Zhang**‡.  
+Chiheng Lou, Xiangwei Deng, Bangjun Xiao, Xiaodong Ji, Yikai Zhao, Xin Jin, **Hailin Zhang**$^{\S}$.  
 ***Preprint.***
 
 
@@ -96,7 +96,7 @@ International Conference on Machine Learning.
 ***ICML 2026, CCF-A.***
 
 * **ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning.** [PDF](https://arxiv.org/pdf/2603.13019)  
-Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**†, Xuanzhe Liu, Xin Jin, Fuli Luo.  
+Bangjun Xiao, Yihao Zhao, Xiangwei Deng, Shihua Yu, Yuxing Xiang, Huaqiu Liu, Qiying Wang, Liang Zhao, **Hailin Zhang**$^{\dagger}$, Xuanzhe Liu, Xin Jin, Fuli Luo.  
 ***Preprint.***
 
 * **HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing.** [PDF](https://arxiv.org/pdf/2602.03560)  
@@ -132,7 +132,7 @@ ACM SIGMOD International Conference on Management of Data.
 
 
 * **CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3713072)  
-Zirui Liu\*, **Hailin Zhang**\*, Boxuan Chen\*, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang, Bin Cui.  
+Zirui Liu$^{\ast}$, **Hailin Zhang**$^{\ast}$, Boxuan Chen$^{\ast}$, Zihan Jiang, Yikai Zhao, Yangyu Tao, Tong Yang, Bin Cui.  
 Transactions on Information Systems.  
 ***TOIS 2025, CCF-A.***
 
@@ -145,11 +145,11 @@ ACM SIGMOD International Conference on Management of Data.
 ### 2024
 
 * **Retrieval-Augmented Generation for AI-Generated Content: A Survey.** [PDF](https://arxiv.org/pdf/2402.19473)  
-Penghao Zhao\*, **Hailin Zhang**\*, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
+Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui.  
 ***Preprint.***
 
 * **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling.** [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/ef74413c7bf1d915c3e45c72e19a5d32-Paper-Conference.pdf)  
-Shuaipeng Li\*, Penghao Zhao\*, **Hailin Zhang**\*, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
+Shuaipeng Li$^{\ast}$, Penghao Zhao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Xingwu Sun, Hao Wu, Dian Jiao, Weiyan Wang, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin Cui, Di Wang.  
 Conference on Neural Information Processing Systems.  
 ***NeurIPS 2024, CCF-A.***
 
@@ -164,7 +164,7 @@ IEEE Transactions on Knowledge and Data Engineering.
 ***TKDE 2024, CCF-A.***
 
 * **CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models.** [PDF](https://dl.acm.org/doi/10.1145/3639306)  
-**Hailin Zhang**\*, Zirui Liu\*, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
+**Hailin Zhang**$^{\ast}$, Zirui Liu$^{\ast}$, Boxuan Chen, Yikai Zhao, Tong Zhao, Tong Yang, Bin Cui.  
 ACM SIGMOD International Conference on Management of Data.  
 ***SIGMOD 2024, CCF-A,*** <font color=orange><strong>Honorable Mention for Best Artifact!</strong></font>
 
@@ -196,7 +196,7 @@ ACM SIGMOD International Conference on Management of Data.
 ***SIGMOD 2022, CCF-A.***
 
 * **HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework.** [PDF](https://dl.acm.org/doi/10.14778/3489496.3489511)  
-Xupeng Miao\*, **Hailin Zhang**\*, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
+Xupeng Miao$^{\ast}$, **Hailin Zhang**$^{\ast}$, Yining Shi, Xiaonan Nie, Zhi Yang, Yangyu Tao, Bin Cui.  
 International Conference on Very Large Data Bases.  
 ***VLDB 2022, CCF-A,*** <font color=orange><strong>Best Scalable Data Science Paper!</strong></font>
 
